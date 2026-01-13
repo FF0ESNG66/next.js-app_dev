@@ -6,7 +6,6 @@ const Home = () => {
   return (
     <main>
 
-
     <div className="text-5xl underline">
         Welcom to Next.js!
     </div>
